@@ -3,6 +3,10 @@
     padding: 5px;
 }
 
+body {
+    background-image: url('../img/fondo.jpg');
+}
+
 #tituloP{
     color:rgb(245, 245, 241);
     font-family: Verdana;
